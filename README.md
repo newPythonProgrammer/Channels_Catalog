@@ -2,4 +2,4 @@
 
 Бот получает статистику от api Telemetr и картинку из их бота
 
-!Фото(https://i.ibb.co/zPPymQF/photo-2023-11-14-19-31-21.jpg)
+![Фото](https://i.ibb.co/zPPymQF/photo-2023-11-14-19-31-21.jpg)
