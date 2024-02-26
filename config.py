@@ -1,0 +1,8 @@
+TOKEN = '6143342344:AAFwTZ4OmuKSf4-vtnkwEP-xdpWg1HZ3shk'
+ADMINS = (5344024150, 2123115047)
+
+MYSQL_PASSWORD = 'password'
+MYSQL_USER = 'root'
+MYSQL_DATABASE = 'telega_info'
+
+
